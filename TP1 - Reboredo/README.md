@@ -9,7 +9,7 @@
 un repositorio. Dentro del repositorio deberá subir todos los archivos que compongan
 la entrega de este trabajo dentro de una carpeta llamada “TP 1”. Para desarrollar
 este punto, ver el apéndice de este documento.
-2. Debe entregar un único script que resuelva los siguientes puntos:
+2. Debe entregar un único script que resuelva los siguientes puntos:  
   a. Reemplace cada punto del archivo “breve_historia.txt” por punto y salto de línea generando un nuevo archivo.
   b. Borre todas las líneas en blanco.
   c. Cree un nuevo archivo: “breve_historia_2.txt” con el resultado de las operaciones a y b (redireccionamiento de la salida estándar).
