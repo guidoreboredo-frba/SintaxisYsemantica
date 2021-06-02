@@ -2,7 +2,7 @@
 ## Expresiones regulares y expresiones regulares extendidas en Bash
 
 **Fecha de Entrega:** 3/6
-
+---
 **Consiga**
 
 1. Crear un usuario en GitHub https://github.com/ con el correo institucional frba. Crear
@@ -27,6 +27,7 @@ este punto, ver el apéndice de este documento.
   - Subprogramas  
 Dé ejemplos de cada una.  
 
+---
 **Condiciones de entrega**  
 
 - La entrega se debe realizar el 3/6 por GitHub en una carpeta llamada “TP 1” dentro
