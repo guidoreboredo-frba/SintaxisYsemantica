@@ -42,7 +42,7 @@ Seguir los pasos mostrados en la pantalla y leer el archivo **Web Scraping - Man
 
 ## Datos del Alumno
 
-Nombre: Guido Reboredo
-Legajo: 159.078-9
-Email: guidoreboredo@frba.utn.edu.ar
+ - **Nombre**: Guido Reboredo 
+ - **Legajo**: 159.078-9 
+ - **Email**:  guidoreboredo@frba.utn.edu.ar
 
